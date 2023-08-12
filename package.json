@@ -1,0 +1,27 @@
+{
+  "name": "api-gateway",
+  "version": "1.0.0",
+  "description": "Simple API Gateway Using Node.js and Express.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Taufik Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "get-stream": "^7.0.1",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazufik/Simple-API-Gateway-Using-Node.js-and-Express.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mazufik/Simple-API-Gateway-Using-Node.js-and-Express.js/issues"
+  },
+  "homepage": "https://github.com/mazufik/Simple-API-Gateway-Using-Node.js-and-Express.js#readme"
+}
